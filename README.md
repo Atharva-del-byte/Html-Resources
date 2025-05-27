@@ -1,41 +1,93 @@
 <div align="center">
-  <h1>🌐 HTML Resources Hub</h1>
-  <p><b>A curated collection of HTML examples, templates, and mini-projects.</b></p>
-  <img src="https://img.shields.io/badge/HTML-Resources-orange?style=for-the-badge&logo=html5" />
+  <h1>🧭 Web Development Roadmap</h1>
+  <p>A complete beginner-to-advanced guide to becoming a full-stack web developer in 2025 🚀</p>
+  <img src="https://img.shields.io/badge/WebDev-Complete%20Guide-blueviolet?style=for-the-badge" />
   <br><br>
-  <img src="https://img.icons8.com/color/96/000000/html-5.png" width="80" />
+  <img src="https://img.icons8.com/fluency/96/source-code.png" width="80" />
 </div>
 
 ---
 
-## 🚀 What’s Inside?
+## 📌 Overview
 
-This repo contains everything from beginner to intermediate HTML content, perfect for:
+This repo is your **one-stop roadmap** to become a **Frontend, Backend, or Fullstack Developer**. It contains:
 
-- 🧑‍🎓 Students learning web dev
-- 🛠️ Developers needing quick references
-- 🧠 Revising HTML fundamentals
-
----
-
-## 📂 Folder Breakdown
-
-| Folder       | Description                                    |
-|--------------|------------------------------------------------|
-| `basics/`    | Basic tags like headings, paragraphs, links    |
-| `forms/`     | Form structures like login/signup              |
-| `layouts/`   | Layout tricks with Flexbox & Grid              |
-| `projects/`  | Mini HTML-only projects for practice           |
+- 🗺️ Step-by-step learning paths
+- 📚 Curated resources (free + paid)
+- 🧪 Hands-on mini projects
+- 🧠 Cheat sheets, mindmaps & interview prep
 
 ---
 
-## ✨ Preview
+## 🧭 The Roadmap
 
-### 🖼️ Sample: Login Form
-```html
-<form action="#">
-  <input type="text" placeholder="Username" />
-  <input type="password" placeholder="Password" />
-  <button type="submit">Login</button>
-</form>
+### 🔹 Frontend
+
+| Skill            | Resources        |
+|------------------|------------------|
+| HTML             | `https://youtu.be/k2DSi1zGEc8?si=FqsOlffK3NdajBlI` |
+| CSS & Flexbox    | `/frontend/css`  |
+| JavaScript (ES6) | `/frontend/javascript` |
+| React.js         | `/frontend/react` |
+| Projects         | `/frontend/projects` |
+
+### 🔸 Backend
+
+| Skill           | Resources         |
+|-----------------|-------------------|
+| Node.js         | `/backend/nodejs` |
+| Express.js      | `/backend/express` |
+| Databases (SQL/MongoDB) | `/backend/databases` |
+| Auth & JWT      | `/backend/auth`   |
+| Projects        | `/backend/projects` |
+
+### 🌐 Fullstack
+
+- Learn the MERN Stack
+- Host using Vercel / Render / Railway
+- Build real-world clone projects
+
+---
+
+## 🔥 Mini Projects
+
+| Frontend              | Backend             | Fullstack          |
+|-----------------------|---------------------|--------------------|
+| Portfolio Website     | REST API            | Blog App (MERN)    |
+| Weather App (API)     | Auth with JWT       | Chat App (Socket)  |
+| Todo List (React)     | Database CRUD       | E-Commerce Site    |
+
+---
+
+## 📚 Resources
+
+Check out:
+
+- [`resources/books.md`](resources/books.md)
+- [`resources/youtube.md`](resources/youtube.md)
+- [`resources/cheat-sheets.md`](resources/cheat-sheets.md)
+
+---
+
+## 🧠 Bonus: Interview Prep
+
+- 50+ Web Dev Questions
+- JavaScript tricky concepts
+- Frontend system design
+
+---
+
+## 🙌 Contribution
+
+Wanna improve this repo? Add your projects or links!
+
+```bash
+# Fork and Clone
+git clone https://github.com/yourusername/web-dev-roadmap.git
+cd web-dev-roadmap
+
+# Create a branch
+git checkout -b add-your-feature
+
+# Push and open a PR
 
